@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=IntGraphBuilder
+comment1.params=s
+comment1.target=java.lang.Integer\ createOneThing(java.lang.String)
+comment1.text=\n\ Takes\ a\ line\ and\ simply\ returns\ it\ as\ a\ string.\n\ Since\ the\ graph\ contains\ simply\ strings,\ trivially,\n\ a\ String\ is\ created,\ and\ returned,out\ or\ the\ inputted\ string.\n\ \n
+numComments=2

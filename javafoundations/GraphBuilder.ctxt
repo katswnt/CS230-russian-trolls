@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GraphBuilder
+comment0.text=\ \n\ When\ we\ want\ to\ create\ a\ graph\ of\ some\ specific\ object\ type,\n\ we\ need\ to\ extend\ this\ abstarct\ class.\ The\ child\ class\ will\ have\ to\ \n\ provide\ implementation\ for\ the\ "createOneThing()"\ method.\n
+comment1.params=s
+comment1.target=java.lang.Object\ createOneThing(java.lang.String)
+comment1.text=\n\ To\ be\ overriden\ in\ the\ extension\ of\ this\ class\ \n\ (like\ the\ PersonGraphBuilder,\ for\ example).\n\ It\ will\ create\ and\ return\ an\ object\ of\ the\ specific\ \n\ type\ the\ graph\ will\ contain,\ from\ the\ input\ string\ s.\n\ \n\ @param\ the\ String\ from\ which\ an\ object,\ of\ the\ specific\ type\n\ the\ graph\ contains,\ will\ be\ created.\n\ @return\ the\ object\ that\ was\ created.\ It\ is\ of\ the\ specific\ type\ \n\ the\ graph\ contains.\n\ \n
+comment2.params=fileName
+comment2.target=AdjListsGraph\ build(java.lang.String)
+comment2.text=\n\ Reads\ from\ the\ input\ .tgf\ file,\ line\ by\ line.\n\ Creates\ the\ vertex\ objects,\ and\ adds\ them\ to\ the\ graph.\n\ Then,\ adds\ the\ connections\ between\ the\ vertices.\n\ \n\ PRECONDITION\:\ the\ input\ file\ is\ in\ the\ TGF\ format\n\ \n\ @param\ the\ file\ name\ to\ read\ from\n\ @return\ the\ constructed\ graph,\ based\ on\ the\ input\ TGF\ file.\n\ \n
+numComments=3

@@ -1,0 +1,17 @@
+Test File 1
+Oh_say	1	1	5	100001,100002,100003,100004,100006
+can_you_see_by	2	1	4	100001,100003,100005,100007
+the_dawns_early_light	3	1	4	100001,100002,100005,100007
+What_so_proudly_we_hailed	4	1	3	100002,100003,100007
+at_the_twilights_last_gleaming	5	1	2	100005,100007
+Whose_broad_stripes_and_bright_stars	6	1	3	100002,100003,100005
+through_the_perilous_fight	7	2	2	100001,100005
+Oer_the_ramparts_we_watched	8	2	3	100001,100003,100005
+were_so_gallantly_streaming	9	2	3	100001,100004,100006
+And_the_rockets_red_glare	10	3	2	100002,100004
+the_bombs_bursting_in_air,	11	3	3	100003,100006,100007
+Gave_proof_through_the_night	12	3	2	100004,100006
+that_our_flag_was_still_there	13	3	3	100003,100004,100007
+does_that_star_spangled_banner_yet_wave	14	4	3	100002,100004,100006
+Over_the_land_of_the_free	15	4	3	100003,100004,100006
+and_the_home_of_the_brave	16	4	2	100003,100004
